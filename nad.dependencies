@@ -1,8 +1,8 @@
 [
     {
-        "remote": "device"
+        "remote": "device",
         "repository": "device_samsung_universal7420-common",
-        "target_path": "device/samsung/universal7420-common"
+        "target_path": "device/samsung/universal7420-common",
         "branch": "10"
     },
     {
