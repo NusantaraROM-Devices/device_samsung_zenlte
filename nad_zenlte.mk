@@ -31,6 +31,7 @@ $(call inherit-product, device/samsung/zenlte/device.mk)
 
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
+NAD_BUILD_TYPE := OFFICIAL
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := nad_zenlte
